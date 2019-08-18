@@ -1,0 +1,1 @@
+This project is a website for a potential navigation app that focuses on improving traffic flow and fuel-efficient driving habits. The website is made with HTML, CSS, JavaScript, Boostrap, and Adobe Illustrator. Created by Ryan Untalan and Dennis Nguyen at HackMobility2019 in San Francisco.
