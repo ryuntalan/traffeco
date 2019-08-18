@@ -1,0 +1,149 @@
+/* Global */
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.greenText {
+  color: #70cb92;
+}
+
+.blueText {
+  color: #4285f4;
+}
+/* Navbar */
+
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 35px;
+}
+
+/* Home */
+
+#home {
+  margin-top: 70px;
+  margin-bottom: 150px;
+}
+
+#home img {
+  width: 100%;
+  margin-top: 55px;
+  margin-left: -25px;
+}
+
+.home-right {
+  margin-top: 150px;
+  text-align: center;
+}
+
+#home .btn {
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  margin: auto;
+}
+
+#home .btn:hover {
+  color: #70cb92;
+}
+
+/* Features */
+
+#features h1 {
+  padding-top: 65px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#features {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#features img {
+  width: 100%;
+}
+
+#features .info-left img {
+  width: 70%;
+}
+
+#features .info-right img {
+  width: 85%;
+}
+/* About */
+#about h6 {
+  line-height: 25px;
+}
+
+#about h1 {
+  padding-top: 65px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#about img {
+  width: 100%;
+}
+
+#about .btn {
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  margin: auto;
+}
+
+/* Example */
+#example h1 {
+  padding-top: 65px;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+#example img {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+
+#example h5 {
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+
+/* Contact */
+#contact {
+  padding-bottom: 70px;
+}
+
+#contact h1 {
+  padding-top: 65px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#contact .row {
+  padding-top: 30px;
+}
+
+#contact h3 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#contact a {
+  color: black;
+}
+
+#contact p {
+  text-align: center;
+}
+
+#contact .bold {
+  font-weight: bold;
+}
