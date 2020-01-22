@@ -147,3 +147,20 @@ body {
 #contact .bold {
   font-weight: bold;
 }
+
+@media only screen and (max-width: 600px) {
+  #home img {
+    width: 100%;
+    margin-top: 15px;
+    margin-left: 14px;
+  }
+
+  #home h1 {
+    font-size: 35px;
+  }
+
+  .home-right {
+    margin-top: 15px;
+    text-align: center;
+  }
+}
