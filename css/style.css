@@ -163,4 +163,12 @@ body {
     margin-top: 15px;
     text-align: center;
   }
+
+  p {
+    text-align: left;
+  }
+
+  .example-right {
+    margin-top: 25px;
+  }
 }
